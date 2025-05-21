@@ -20,3 +20,9 @@ Write a Python program that:
 1. Uses a `for` loop to iterate from 1 to 50.
 2. Calculates the sum of all integers in this range.
 3. Displays the result.
+
+## Output Screenshot
+
+Below is an image showing the output of both programs:
+
+![Assignment Output](Assignment2.jpg)
