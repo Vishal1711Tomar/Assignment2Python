@@ -25,4 +25,4 @@ Write a Python program that:
 
 Below is an image showing the output of both programs:
 
-![Assignment Output](Assignment2.jpg)
+![Assignment Output](Assignment2 .jpg)
